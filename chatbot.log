@@ -1,0 +1,21 @@
+2026-06-04 15:48:49,617 - ERROR - 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2026-06-04 15:49:18,832 - ERROR - 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2026-06-04 16:00:20,745 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-06-04 16:00:20,745 - WARNING - python-dotenv could not parse statement starting at line 2
+2026-06-04 16:07:06,763 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-06-04 16:07:06,763 - WARNING - python-dotenv could not parse statement starting at line 2
+2026-06-04 16:15:01,795 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-06-04 16:15:01,796 - WARNING - python-dotenv could not parse statement starting at line 2
+2026-06-04 16:17:32,791 - WARNING - python-dotenv could not parse statement starting at line 1
+2026-06-04 16:17:32,792 - WARNING - python-dotenv could not parse statement starting at line 2
+2026-06-04 16:18:04,949 - INFO - Question: What skills are needed for AI Engineer?
+2026-06-04 16:18:56,937 - INFO - Question: I am a B.Tech student. How can I become a Data Scientist?
+2026-06-04 16:19:39,969 - INFO - Question: What skills are needed for AI Engineer?
